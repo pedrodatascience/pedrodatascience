@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedrodatascience
 - 👀 I’m interested in learning more
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently working as Data Engineer
 
 
 <!---
